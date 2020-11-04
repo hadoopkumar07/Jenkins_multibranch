@@ -11,7 +11,7 @@ stage('Continuous Download')
 	}
 
 stage('Continuous build') 
-	}
+	
    
 	 {
 	
